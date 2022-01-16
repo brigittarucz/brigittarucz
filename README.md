@@ -28,10 +28,10 @@
 
 ## I played around with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=flat) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)                                                                                        
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)                                                                                           
-
+![React](https://img.shields.io/badge/-React-000?&logo=React)                                                                                           
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)    
 <!--
 **brigittarucz/brigittarucz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
