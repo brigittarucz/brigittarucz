@@ -21,7 +21,7 @@
 - 📜 I own a degree with specialization in Web Development
 - 🎨 I am into artsy things and reading as hobbies
 - 🌱 I enjoy uniting forces with other developers
-- 🇩🇰 I am based in Copenhagen and learning new things is my hygge
+- 🗺️ I am based in Copenhagen and learning new things is my hygge
  
 ## I wrote ✒️ a couple of medium articles:
 - [What Mistakes To Avoid When You Come Across New Technologies](https://brigittarucz.medium.com/what-mistakes-to-avoid-when-you-come-across-new-technologies-ecda548f89cf)   
