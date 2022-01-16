@@ -29,9 +29,9 @@
 
 ## I played ⚡ around with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-191919?&logo=JavaScript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-191919?&logo=TypeScript)                                                                                        
-![React](https://img.shields.io/badge/-React-191919?&logo=React)                                                                                           
+![JavaScript](https://img.shields.io/badge/-JavaScript-191919?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-191919?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-191919?&logo=React)
 ![React Native](https://img.shields.io/badge/-React%20Native-191919?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-191919?&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-191919?&logo=Docker)
