@@ -33,7 +33,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-191919?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-191919?&logo=React)
 ![React Native](https://img.shields.io/badge/-React%20Native-191919?&logo=React)
+![Material UI}(https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-191919?&logo=Node.js)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-191919?&logo=Docker)
 ![PHP](https://img.shields.io/badge/-PHP-191919?&logo=PHP)
 ![Azure](https://img.shields.io/badge/-Azure-191919?&logo=Microsoft%20Azure)
@@ -45,4 +47,3 @@
 ![Chai](https://img.shields.io/badge/-Chai-191919?&logo=Chai)
 ![Jest](https://img.shields.io/badge/-Jest-191919?&logo=Jest)
 ![Django](https://img.shields.io/badge/-Django-191919?&logo=Django)
-
