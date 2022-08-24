@@ -33,7 +33,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-191919?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-191919?&logo=React)
 ![React Native](https://img.shields.io/badge/-React%20Native-191919?&logo=React)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-191919?&logo=Node.js)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-191919?&logo=Docker)
