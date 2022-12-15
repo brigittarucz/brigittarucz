@@ -34,7 +34,6 @@
 ![React](https://img.shields.io/badge/-React-191919?&logo=React)
 ![React Native](https://img.shields.io/badge/-React%20Native-191919?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-191919?&logo=Node.js)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-191919?&logo=Docker)
 ![PHP](https://img.shields.io/badge/-PHP-191919?&logo=PHP)
 ![Azure](https://img.shields.io/badge/-Azure-191919?&logo=Microsoft%20Azure)
